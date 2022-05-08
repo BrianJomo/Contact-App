@@ -3,7 +3,7 @@ It is a simple python application that enables a user to add , view ,search and 
 
 ## Installation
 
-To gain acess to this application click on this link: https://github.com/BrianJomo/Password-Locker
+To gain acess to this application click on this link: https://github.com/BrianJomo/Contact-App
 
 ### Requirements
 
